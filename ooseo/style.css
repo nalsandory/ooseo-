@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap");
+.fieldset {
+  width: 500px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #000;
+  margin-top: 281px;
+}
+
+.find_text {
+  color: #ffffff;
+  background-color: #000;
+  width: 200px;
+  position: absolute;
+  left: 882px;
+}
+
+.gg {
+  font-family: "Do Hyeon", sans-serif;
+  font-size: xx-large;
+}
+
+#joinwelcome {
+  font-family: "Noto Sans KR", sans-serif;
+  text-align: center;
+  top: 50px;
+}
+
+#fieldset {
+  margin-top: 113px;
+}
+
+.ligin정보 {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.쓰는칸 {
+  size: 30px;
+}
+
+.회원이아니라면 {
+  position: absolute;
+  left: 20cm;
+  font-family: "Noto Sans KR", sans-serif;
+  top: 600px;
+}
+
+#body {
+  background-image: linear-gradient(to bottom right, #e1bee7, #b2ebf2);
+  height: 150%;
+  height: 635px;
+}
+
+#body2 {
+  background-image: linear-gradient(to bottom right, #e1bee7, #b2ebf2);
+  height: 150%;
+  height: 635px;
+}
+
+#loginbutton {
+  background-color: #000;
+  color: #ffffff;
+}
+
+#button {
+  color: #ffffff;
+  background-color: #000;
+  width: 200px;
+  position: absolute;
+  left: 685px;
+}
+
+#button2 {
+  color: #ffffff;
+  background-color: #000;
+  position: absolute;
+  left: 900px;
+}
+
+main {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  text-align: center;
+}
+
+#ooseo {
+  font-family: "Gothic A1", sans-serif;
+  font-size: 3cm;
+  width: auto;
+  line-height: 6cm;
+}
+
+.bodymain {
+  width: 1317px;
+  height: 946px;
+  text-align: center;
+  width: auto;
+  top: 5cm;
+}
+
+.mainul {
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 32px;
+}
+
+.mainheader {
+  background-color: #000;
+  height: 70px;
+  box-shadow: 5px 5px 15px 0px blueviolet;
+}
+
+.a {
+  color: #000;
+  background-color: rgb(173, 173, 173);
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.aoooseo {
+  padding-left: 88px;
+  padding-right: 88px;
+}
+
+.aoooseo:hover {
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+}
+
+.웃어우서 {
+  padding-left: 59px;
+  padding-right: 59px;
+}
+
+.웃어우서:hover {
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+}
+
+.이끼끼우서 {
+  padding-left: 47px;
+  padding-right: 47px;
+}
+
+.이끼끼우서:hover {
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+}
+
+.레인보우우서:hover {
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+}
+
+.제목 {
+  color: #fff;
+  top: 2cm;
+  width: 209px;
+  height: 51px;
+  padding-top: 11px;
+  font-family: "Gothic A1", sans-serif;
+}
+
+.제목a:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: blueviolet;
+}
+
+.nav1 {
+  color: #fff;
+}
+
+#우서의종류 {
+  font-size: 50px;
+  font-family: "Gothic A1", sans-serif;
+}
